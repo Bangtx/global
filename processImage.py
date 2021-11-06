@@ -184,5 +184,4 @@ def process_image():
 
     # return id_student, md, sc
 
-
 # process_image()
